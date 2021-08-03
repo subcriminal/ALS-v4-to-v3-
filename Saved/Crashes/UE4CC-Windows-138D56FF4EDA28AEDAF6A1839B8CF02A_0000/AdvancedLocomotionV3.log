@@ -1,0 +1,784 @@
+﻿Log file open, 07/02/21 08:29:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AdvancedLocomotionV3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.238613
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:         Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/GAMES EPIC/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.02-05.29.51:895][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.02-05.29.51:895][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.07.02-05.29.51:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.02-05.29.51:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.07.02-05.29.51:896][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.02-05.29.51:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.07.02-05.29.51:897][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.07.02-05.29.51:933][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-05.29.51:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-05.29.51:934][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-05.29.51:935][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-05.29.51:936][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-05.29.51:936][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.02-05.29.51:936][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.02-05.29.51:936][  0]LogHAL: Display: Platform has ~ 8 GB [8555474944 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.02-05.29.51:936][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.02-05.29.51:937][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.02-05.29.51:937][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.02-05.29.51:938][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.02-05.29.51:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.02-05.29.51:940][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:941][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.02-05.29.51:941][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.02-05.29.51:941][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.07.02-05.29.51:941][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.02-05.29.51:941][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.02-05.29.51:941][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.02-05.29.51:941][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.02-05.29.51:966][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.02-05.29.51:966][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.02-05.29.51:966][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.02-05.29.51:966][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.07.02-05.29.51:967][  0]LogInit: Computer: DESKTOP-MBI9QBR
+[2021.07.02-05.29.51:967][  0]LogInit: User: subc
+[2021.07.02-05.29.51:967][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.07.02-05.29.51:967][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.02-05.29.51:967][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2021.07.02-05.29.51:967][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.02-05.29.51:967][  0]LogMemory: Process Physical Memory: 134.52 MB used, 134.53 MB peak
+[2021.07.02-05.29.51:967][  0]LogMemory: Process Virtual Memory: 116.96 MB used, 116.96 MB peak
+[2021.07.02-05.29.51:967][  0]LogMemory: Physical Memory: 3996.84 MB used,  4162.30 MB free, 8159.14 MB total
+[2021.07.02-05.29.51:967][  0]LogMemory: Virtual Memory: 134199016.00 MB used,  18712.46 MB free, 134217728.00 MB total
+[2021.07.02-05.29.51:995][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.02-05.29.52:372][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.02-05.29.52:420][  0]LogInit: Using OS detected language (he-IL).
+[2021.07.02-05.29.52:420][  0]LogInit: Using OS detected locale (he-IL).
+[2021.07.02-05.29.52:425][  0]LogTextLocalizationManager: No localization for 'he-IL' exists, so 'en' will be used for the language.
+[2021.07.02-05.29.53:463][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.02-05.29.53:535][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.02-05.29.53:696][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.02-05.29.53:696][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.02-05.29.54:417][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.02-05.29.54:417][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.02-05.29.54:417][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.02-05.29.54:417][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.02-05.29.54:998][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2021.07.02-05.29.54:998][  0]LogD3D11RHI:       2007/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.07.02-05.29.55:013][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.02-05.29.55:013][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.02-05.29.55:013][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.02-05.29.55:021][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.02-05.29.55:021][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.02-05.29.55:021][  0]LogWindows: EnumDisplayDevices:
+[2021.07.02-05.29.55:021][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2021.07.02-05.29.55:022][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.07.02-05.29.55:022][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.07.02-05.29.55:022][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.07.02-05.29.55:023][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.02-05.29.55:023][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2021.07.02-05.29.55:023][  0]LogD3D11RHI:   Driver Version: 466.77 (internal:27.21.14.6677, unified:466.77)
+[2021.07.02-05.29.55:023][  0]LogD3D11RHI:      Driver Date: 6-8-2021
+[2021.07.02-05.29.55:023][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2021.07.02-05.29.55:134][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.07.02-05.29.55:134][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.02-05.29.55:239][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.02-05.29.55:243][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.02-05.29.56:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.02-05.29.56:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.02-05.29.56:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.02-05.29.56:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.02-05.29.56:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.02-05.29.56:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.02-05.29.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.02-05.29.56:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.02-05.29.56:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.02-05.29.56:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.02-05.29.56:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.02-05.29.56:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.02-05.29.56:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.02-05.29.57:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.02-05.29.57:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.02-05.29.57:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.02-05.29.57:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.02-05.29.57:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.02-05.29.57:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.02-05.29.57:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.02-05.29.57:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.02-05.29.57:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.02-05.29.57:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.02-05.29.57:219][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.02-05.29.57:323][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.02-05.29.58:191][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.02-05.29.58:191][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Intermediate/Shaders/WorkingDirectory/14908/).
+[2021.07.02-05.29.58:191][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sub_c/AppData/Local/Temp/UnrealShaderWorkingDir/A5495EB94CEC1AC7B6A21DBC25867E72/'.
+[2021.07.02-05.29.58:191][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.02-05.29.58:191][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.02-05.30.00:438][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.02-05.30.01:295][  0]LogDerivedDataCache: Loaded boot cache 0.86s 77MB C:/Users/sub_c/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.02-05.30.01:295][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sub_c/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.02-05.30.01:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.02-05.30.01:295][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.02-05.30.01:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.02-05.30.01:295][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.02-05.30.01:365][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.02-05.30.01:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.02-05.30.01:365][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.02-05.30.01:744][  0]LogDerivedDataCache: Speed tests for C:/Users/sub_c/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.38 seconds
+[2021.07.02-05.30.01:745][  0]LogDerivedDataCache: Display: Performance to C:/Users/sub_c/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=3.57MBs, RandomWriteSpeed=7.84MBs. Assigned SpeedClass 'Local'
+[2021.07.02-05.30.01:745][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sub_c/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.02-05.30.01:746][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.02-05.30.01:746][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.02-05.30.01:839][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.02-05.30.01:865][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.02-05.30.02:312][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2021.07.02-05.30.02:704][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.02-05.30.02:704][  0]LogInit: Active device profile: [0000025A2CC42F00][0000025A0C040E00 49] Windows
+[2021.07.02-05.30.02:704][  0]LogInit: Profiles: [0000025A2CC42F00][0000025A0C040E00 49] Windows, [0000025A2CC05300][0000025A2AA1EF80 49] WindowsNoEditor, [0000025A2CC41300][0000025A2AA23100 49] WindowsServer, [0000025A2CC06700][0000025A2AA27280 49] WindowsClient, [0000025A2CC42600][0000025A2AA2B400 49] IOS, [0000025A2CC05C00][0000025A2AA2F580 49] iPadAir, [0000025A2CC41B00][0000025A2AA33700 49] iPadAir2, [0000025A2CBBC200][0000025A2AA37940 49] IPadPro, [0000025A2CBBC300][0000025A2AA1B980 49] iPadAir3, [0000025A2CC43300][0000025A2AA3BAC0 49] iPadAir4, [0000025A2CBBE900][0000025A2AA43C40 49] iPadMini2, [0000025A2CC40F00][0000025A2AA46100 49] iPadMini3, [0000025A2CBBC600][0000025A2AA4A280 49] iPadMini4, [0000025A2CC40700][0000025A2B4F8400 49] iPadMini5, [0000025A2CBBBA00][0000025A2B5006C0 49] iPhone6, [0000025A2CBBBB00][0000025A2B4FC700 49] iPodTouch6, [0000025A2CBBE600][0000025A2B5089C0 49] iPhone7, [0000025A2CBBEB00][0000025A2B504A00 49] iPodTouch7, [0000025A2CBB9700][0000025A2B50CB80 49] iPhone5S, [0000025A2CBBCF00][0000025A2B510D00 49] iPhone6Plus, [0000025A2CBBBC00][0000025A2B514E80 49] iPhone6S, [0000025A2CBBEE00][0000025A2B519000 49] iPhone6SPlus, [0000025A2CBB9400][0000025A2B51D180 49] iPhone7Plus, [0000025A2CBBE800][0000025A2B521300 49] iPhoneSE, [0000025A2CBBA600][0000025A2B525480 49] iPhone8, [0000025A2CBBCA00][0000025A2B529600 49] iPhone8Plus, [0000025A2CBBAD00][0000025A2B52D780 49] iPhoneX, [0000025A2CBBEA00][0000025A2AA3F8C0 49] iPhoneXS, [0000025A2CBBB100][0000025A2B531A00 49] iPhoneXSMax, [0000025A2CBBCD00][0000025A2B535B40 49] iPhoneXR, [0000025A2CBBB700][0000025A2B53DCC0 49] iPhone11, [0000025A2CBBDE00][0000025A2B540180 49] iPhone11Pro, [0000025A2CBB9600][0000025A2B544300 49] iPhone11ProMax, [0000025A2CBBD200][0000025A2B548480 49] iPhoneSE2, [0000025A2CBBA200][0000025A2B54C600 49] iPhone12Mini, [0000025A2CBBE300][0000025A2B550780 49] iPhone12, [0000025A2CBBA700][0000025A2B554900 49] iPhone12Pro, [0000025A2CBBCC00][0000025A2B558A80 49] iPhone12ProMax, [0000025A2CBBA100][0000025A2B55CC00 49] iPadPro105, [0000025A2CBBD800][0000025A2B560D80 49] iPadPro129, [0000025A2CBB8E00][0000025A2B564F00 49] iPadPro97, [0000025A2CBBFF00][0000025A2B569080 49] iPadPro2_129, [0000025A2CBBAF00][0000025A2B56D200 49] iPad5, [0000025A2CBBF900][0000025A2B571380 49] iPad6, [0000025A2CBB8C00][0000025A2B575500 49] iPad7, [0000025A2CBBC500][0000025A2B579680 49] iPad8, [0000025A2CBBB800][0000025A2B57D800 49] iPadPro11, [0000025A2CBBE000][0000025A2B539940 49] iPadPro2_11, [0000025A2CBB8900][0000025A2B581A80 49] iPadPro3_129, [0000025A2CBBEC00][0000025A2B585BC0 49] iPadPro4_129, [0000025A2CBB9500][0000025A2B589D00 49] AppleTV, [0000025A2CBBEF00][0000025A2B5901C0 49] AppleTV4K, [0000025A2CBB8F00][0000025A2B594340 49] TVOS, [0000025A2CBBF800][0000025A2B5984C0 49] Mac, [0000025A2CBBA400][0000025A2B59C640 49] MacClient, [0000025A2CBBE500][0000025A2B5A07C0 49] MacNoEditor, [0000025A2CC07B00][0000025A2B5A4940 49] MacServer, [0000025A2CC98E00][0000025A2B5A8AC0 49] Linux, [0000025A2CC07300][0000025A2B5ACC40 49] LinuxNoEditor, [0000025A2CC98500][0000025A2B5B0DC0 49] LinuxAArch64NoEditor, [0000025A2CC06B00][0000025A2B5B4F40 49] LinuxClient, [0000025A2CC98400][0000025A2B5B90C0 49] LinuxAArch64Client, [0000025A2CC04200][0000025A2B5BD240 49] LinuxServer, [0000025A2CC99300][0000025A2B5C13C0 49] LinuxAArch64Server, [0000025A2CC06000][0000025A2B5C5540 49] Android, [0000025A2CC98100][0000025A2B5C96C0 49] Android_Low, [0000025A2CC06100][0000025A2B5CD840 49] Android_Mid, [0000025A2CC98700][0000025A2B58D980 49] Android_High, [0000025A2CC04500][0000025A2B5D1AC0 49] Android_Default, [0000025A2CBBF200][0000025A2B5D5C00 49] Android_Adreno4xx, [0000025A2CC07000][0000025A2B5D9D40 49] Android_Adreno5xx_Low, [0000025A2CBBE200][0000025A2B5E0200 49] Android_Adreno5xx, [0000025A2CC06A00][0000025A2B5E4380 49] Android_Adreno6xx, [0000025A2CBBDA00][0000025A2B5E8500 49] Android_Adreno6xx_Vulkan, [0000025A2CC05600][0000025A2B5EC680 49] Android_Mali_T6xx, [0000025A2CBBD900][0000025A2B5F0800 49] Android_Mali_T7xx, [0000025A2CC05900][0000025A2B5F4980 49] Android_Mali_T8xx, [0000025A2CBBD600][0000025A2B5F8B00 49] Android_Mali_G71, [0000025A2CC06500][0000025A2B5FCC80 49] Android_Mali_G72, [0000025A2CBBF500][0000025A2B600E00 49] Android_Mali_G72_Vulkan, [0000025A2CC04800][0000025A2B604F80 49] Android_Mali_G76, [0000025A2CBBFB00][0000025A2B609100 49] Android_Mali_G76_Vulkan, [0000025A2CC04F00][0000025A2B60D280 49] Android_Mali_G77, [0000025A2CBBF000][0000025A2B611400 49] Android_Mali_G77_Vulkan, [0000025A2CC07800][0000025A2B615580 49] Android_Vulkan_SM5, [0000025A2CBBF300][0000025A2B619700 49] Android_PowerVR_G6xxx, [0000025A2CC07200][0000025A2B61D880 49] Android_PowerVR_GT7xxx, [0000025A2CBBED00][0000025A2B621A00 49] Android_PowerVR_GE8xxx, [0000025A2CC04100][0000025A2B5DDB40 49] Android_PowerVR_GM9xxx, [0000025A2CBBF400][0000025A2B625C80 49] Android_PowerVR_GM9xxx_Vulkan, [0000025A2CC07400][0000025A2B628100 49] Android_TegraK1, [0000025A2CBBFD00][0000025A2B630280 49] Android_Unknown_Vulkan, [0000025A2CC05B00][0000025A2B634400 49] Lumin, [0000025A2CBBC700][0000025A2B638580 49] Lumin_Desktop, [0000025A2CC07A00][0000025A2B63C700 49] HoloLens, 
+[2021.07.02-05.30.03:370][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.02-05.30.03:370][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.02-05.30.03:370][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.02-05.30.03:370][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.02-05.30.03:370][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.02-05.30.03:469][  0]LogNetVersion: AdvancedLocomotionV3 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3455729164)
+[2021.07.02-05.30.15:179][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.02-05.30.15:272][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.092747 seconds
+[2021.07.02-05.30.15:283][  0]LogUObjectArray: 16826 objects as part of root set at end of initial load.
+[2021.07.02-05.30.15:283][  0]LogUObjectAllocator: 4208096 out of 0 bytes used by permanent object pool.
+[2021.07.02-05.30.15:283][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.02-05.30.20:568][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.02-05.30.20:601][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.02-05.30.21:398][  0]SourceControl: Source control is disabled
+[2021.07.02-05.30.21:398][  0]SourceControl: Source control is disabled
+[2021.07.02-05.30.21:453][  0]SourceControl: Source control is disabled
+[2021.07.02-05.30.21:488][  0]SourceControl: Source control is disabled
+[2021.07.02-05.30.21:551][  0]SourceControl: Source control is disabled
+[2021.07.02-05.30.21:588][  0]LogUProjectInfo: Found projects:
+[2021.07.02-05.30.23:700][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.02-05.30.23:847][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.02-05.30.23:847][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.02-05.30.24:253][  0]LogCollectionManager: Loaded 0 collections in 0.002270 seconds
+[2021.07.02-05.30.24:325][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Collections/' took 0.00s
+[2021.07.02-05.30.24:325][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/Developers/subc/Collections/' took 0.00s
+[2021.07.02-05.30.24:325][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/Collections/' took 0.00s
+[2021.07.02-05.30.24:325][  0]LogOcInput: OculusInput pre-init called
+[2021.07.02-05.30.24:378][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.02-05.30.24:378][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.02-05.30.24:550][  0]LogEngine: Initializing Engine...
+[2021.07.02-05.30.24:551][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.02-05.30.24:551][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.02-05.30.24:552][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.02-05.30.24:700][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.02-05.30.24:811][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.02-05.30.24:812][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.02-05.30.24:849][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.02-05.30.24:849][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.02-05.30.24:849][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.02-05.30.24:849][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.02-05.30.24:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.02-05.30.24:849][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.02-05.30.24:849][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.02-05.30.24:849][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.02-05.30.24:849][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.02-05.30.24:849][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.02-05.30.24:850][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.02-05.30.24:850][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.02-05.30.24:935][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.02-05.30.24:935][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.02-05.30.24:972][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.07.02-05.30.24:976][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.02-05.30.24:978][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.02-05.30.24:978][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.02-05.30.24:979][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.02-05.30.24:979][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.02-05.30.24:980][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.02-05.30.24:981][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.02-05.30.24:981][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.02-05.30.24:981][  0]LogInit: FAudioDevice initialized.
+[2021.07.02-05.30.24:981][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.02-05.30.24:981][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.02-05.30.25:114][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/sub_c/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.02-05.30.25:114][  0]LogInit: Texture streaming: Enabled
+[2021.07.02-05.30.25:213][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.07.02-05.30.25:231][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.02-05.30.25:231][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.02-05.30.25:240][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.02-05.30.25:479][  0]LogInit: Transaction tracking system initialized
+[2021.07.02-05.30.25:920][  0]BlueprintLog: New page: Editor Load
+[2021.07.02-05.30.26:749][  0]LocalizationService: Localization service is disabled
+[2021.07.02-05.30.27:046][  0]TimingProfiler: Initialize
+[2021.07.02-05.30.27:047][  0]TimingProfiler: OnSessionChanged
+[2021.07.02-05.30.27:047][  0]LoadingProfiler: Initialize
+[2021.07.02-05.30.27:047][  0]LoadingProfiler: OnSessionChanged
+[2021.07.02-05.30.27:047][  0]NetworkingProfiler: Initialize
+[2021.07.02-05.30.27:047][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.02-05.30.27:047][  0]MemoryProfiler: Initialize
+[2021.07.02-05.30.27:047][  0]MemoryProfiler: OnSessionChanged
+[2021.07.02-05.30.28:166][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.02-05.30.28:166][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.02-05.30.28:810][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/' took 0.01s
+[2021.07.02-05.30.30:900][  0]SourceControl: Source control is disabled
+[2021.07.02-05.30.30:900][  0]LogUnrealEdMisc: Loading editor; pre map load, took 107.325
+[2021.07.02-05.30.30:900][  0]Cmd: MAP LOAD FILE="C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV3/V4IMPORTS/Levels/ALS_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.02-05.30.30:901][  0]LightingResults: New page: Lighting Build
+[2021.07.02-05.30.30:949][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.02-05.30.30:949][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.02-05.30.30:949][  0]MapCheck: New page: Map Check
+[2021.07.02-05.30.30:949][  0]LightingResults: New page: Lighting Build
+[2021.07.02-05.30.30:960][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.07.02-05.30.31:477][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/FootstepType.FootstepType'
+[2021.07.02-05.30.31:477][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/FootstepType.FootstepType'
+[2021.07.02-05.30.31:477][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/FootstepType.FootstepType'
+[2021.07.02-05.30.31:477][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/FootstepType.FootstepType'
+[2021.07.02-05.30.31:477][  0]LogEnum: Warning: Enum name collision: 'FootstepType::FootstepType_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/FootstepType.FootstepType'
+[2021.07.02-05.30.31:502][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.07.02-05.30.31:502][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.07.02-05.30.31:502][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::ALS_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::ALS_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.07.02-05.30.31:503][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::ALS_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.07.02-05.30.32:045][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.07.02-05.30.32:045][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.07.02-05.30.32:049][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.07.02-05.30.32:049][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.07.02-05.30.32:169][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.07.02-05.30.32:169][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.07.02-05.30.32:169][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.07.02-05.30.32:561][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.07.02-05.30.32:561][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV3/V4IMPORTS/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.07.02-05.30.34:067][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.07.02-05.30.35:575][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.508 s
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: 
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'NewEnumerator4'! You must pass in fully qualified package names
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: Stack: 
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdd318a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc08b4c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdb815d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdb90c59 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdb8cc16 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdb8cacf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfd8454f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdd1b48068 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdcb8c38c5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdcebe704e UE4Editor-AnimGraph.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdcb8eda88 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdd05f7e1e UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdd05a1282 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdd059dfc3 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.07.02-05.30.35:575][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfd872f80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda816fa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdab8cfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda7f644 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda81bfb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaba20c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc490d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda742ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda83385 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdab8ec0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda7fbaf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdab8cfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda80104 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda81bfb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaba20c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc490d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda742ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf97d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda91d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf66da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda83b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaaf776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc48d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda742ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf97d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda91d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:576][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf66da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda83b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaaf776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc48d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda742ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf97d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda91d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf66da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda83b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaaf776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc48d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda742ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf97d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda91d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf66da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda83b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaaf776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc48d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda742ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf97d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda91d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf66da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda83b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaaf776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdc48d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfda742ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdaf9f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: [Callstack] 0x00007ffdfdafb9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.07.02-05.30.35:577][  0]LogOutputDevice: Error: 

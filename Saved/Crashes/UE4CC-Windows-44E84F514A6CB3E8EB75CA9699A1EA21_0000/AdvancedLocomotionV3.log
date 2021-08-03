@@ -1,0 +1,1374 @@
+﻿Log file open, 07/01/21 02:36:21
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AdvancedLocomotionV3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310299
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/sub_c/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:         Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/GAMES EPIC/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.06.30-23.36.21:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.30-23.36.21:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.30-23.36.21:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.06.30-23.36.21:774][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.06.30-23.36.21:798][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:798][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.30-23.36.21:798][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.30-23.36.21:798][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:798][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.30-23.36.21:798][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:798][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.30-23.36.21:798][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.30-23.36.21:798][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.30-23.36.21:798][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.30-23.36.21:799][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.30-23.36.21:800][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.30-23.36.21:800][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.30-23.36.21:800][  0]LogHAL: Display: Platform has ~ 8 GB [8555474944 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.30-23.36.21:800][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.30-23.36.21:800][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.30-23.36.21:800][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.30-23.36.21:801][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Scalability.ini]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.30-23.36.21:802][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.30-23.36.21:803][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.30-23.36.21:803][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.30-23.36.21:803][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.30-23.36.21:803][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Config/Windows/Engine.ini]
+[2021.06.30-23.36.21:804][  0]LogInit: Computer: DESKTOP-MBI9QBR
+[2021.06.30-23.36.21:804][  0]LogInit: User: subc
+[2021.06.30-23.36.21:804][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.06.30-23.36.21:804][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.30-23.36.21:804][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2021.06.30-23.36.21:804][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.30-23.36.21:804][  0]LogMemory: Process Physical Memory: 133.78 MB used, 133.79 MB peak
+[2021.06.30-23.36.21:804][  0]LogMemory: Process Virtual Memory: 117.10 MB used, 117.10 MB peak
+[2021.06.30-23.36.21:804][  0]LogMemory: Physical Memory: 3883.93 MB used,  4275.21 MB free, 8159.14 MB total
+[2021.06.30-23.36.21:804][  0]LogMemory: Virtual Memory: 134199696.00 MB used,  18035.72 MB free, 134217728.00 MB total
+[2021.06.30-23.36.21:810][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.30-23.36.21:870][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.30-23.36.21:873][  0]LogInit: Using OS detected language (he-IL).
+[2021.06.30-23.36.21:873][  0]LogInit: Using OS detected locale (he-IL).
+[2021.06.30-23.36.21:875][  0]LogTextLocalizationManager: No localization for 'he-IL' exists, so 'en' will be used for the language.
+[2021.06.30-23.36.22:149][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.30-23.36.22:163][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.30-23.36.22:229][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.30-23.36.22:229][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.30-23.36.22:448][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.30-23.36.22:448][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.30-23.36.22:448][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.30-23.36.22:448][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.30-23.36.22:572][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2021.06.30-23.36.22:572][  0]LogD3D11RHI:       2007/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.30-23.36.22:574][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.30-23.36.22:574][  0]LogD3D11RHI:       0/0/4079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.30-23.36.22:574][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.30-23.36.22:580][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.30-23.36.22:580][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.30-23.36.22:580][  0]LogWindows: EnumDisplayDevices:
+[2021.06.30-23.36.22:580][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2021.06.30-23.36.22:581][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.06.30-23.36.22:581][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.06.30-23.36.22:581][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.06.30-23.36.22:581][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.30-23.36.22:581][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2021.06.30-23.36.22:581][  0]LogD3D11RHI:   Driver Version: 466.77 (internal:27.21.14.6677, unified:466.77)
+[2021.06.30-23.36.22:581][  0]LogD3D11RHI:      Driver Date: 6-8-2021
+[2021.06.30-23.36.22:581][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2021.06.30-23.36.22:688][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.06.30-23.36.22:688][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.30-23.36.22:723][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.30-23.36.22:726][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.30-23.36.23:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.30-23.36.23:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.30-23.36.23:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.30-23.36.23:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.30-23.36.23:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.30-23.36.23:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.30-23.36.23:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.30-23.36.23:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.30-23.36.23:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.30-23.36.23:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.30-23.36.23:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.30-23.36.23:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.30-23.36.23:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.30-23.36.23:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.30-23.36.23:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.30-23.36.23:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.30-23.36.23:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.30-23.36.23:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.30-23.36.23:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.30-23.36.23:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.30-23.36.23:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.30-23.36.23:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.30-23.36.23:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.30-23.36.23:874][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.30-23.36.23:883][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.30-23.36.23:955][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.30-23.36.23:955][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Intermediate/Shaders/WorkingDirectory/8224/).
+[2021.06.30-23.36.23:955][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/sub_c/AppData/Local/Temp/UnrealShaderWorkingDir/2B3467C74382294ED2D7A0A7E846BE2B/'.
+[2021.06.30-23.36.23:955][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.30-23.36.23:955][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.30-23.36.25:253][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.30-23.36.25:319][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/sub_c/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.30-23.36.25:320][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/sub_c/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.30-23.36.25:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.30-23.36.25:320][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.30-23.36.25:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.30-23.36.25:320][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.30-23.36.25:336][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.30-23.36.25:336][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.30-23.36.25:336][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.30-23.36.25:345][  0]LogDerivedDataCache: Speed tests for C:/Users/sub_c/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.30-23.36.25:346][  0]LogDerivedDataCache: Display: Performance to C:/Users/sub_c/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=925.06MBs, RandomWriteSpeed=118.60MBs. Assigned SpeedClass 'Local'
+[2021.06.30-23.36.25:353][  0]LogDerivedDataCache: Using Local data cache path C:/Users/sub_c/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.30-23.36.25:353][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.30-23.36.25:353][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.30-23.36.25:446][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.30-23.36.25:446][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.30-23.36.25:495][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2021.06.30-23.36.25:964][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.30-23.36.25:964][  0]LogInit: Active device profile: [0000019BCFBA6F00][0000019BCD6E1600 49] Windows
+[2021.06.30-23.36.25:964][  0]LogInit: Profiles: [0000019BCFBA6F00][0000019BCD6E1600 49] Windows, [0000019BCFB6D300][0000019BCD6E5740 49] WindowsNoEditor, [0000019BCFBA5300][0000019BCD6E9880 49] WindowsServer, [0000019BCFB6E700][0000019BCD6ED9C0 49] WindowsClient, [0000019BCFBA6600][0000019BCD2ABB00 49] IOS, [0000019BCFB6DC00][0000019BCD2B3C80 49] iPadAir, [0000019BCFBA5B00][0000019BCD2B6140 49] iPadAir2, [0000019BCFB1C200][0000019BCD2BE400 49] IPadPro, [0000019BCFB1C300][0000019BCD2BA440 49] iPadAir3, [0000019BCFBA7300][0000019BCD2C25C0 49] iPadAir4, [0000019BCFB1E900][0000019BCD2C6740 49] iPadMini2, [0000019BCFBA4F00][0000019BCD2CA8C0 49] iPadMini3, [0000019BCFB1C600][0000019BCD2CEA40 49] iPadMini4, [0000019BCFBA4700][0000019BCD2D2BC0 49] iPadMini5, [0000019BCFB1BA00][0000019BCD2DAE80 49] iPhone6, [0000019BCFB1BB00][0000019BCD2D6EC0 49] iPodTouch6, [0000019BCFB1E600][0000019BD0B15180 49] iPhone7, [0000019BCFB1EB00][0000019BD0B111C0 49] iPodTouch7, [0000019BCFB19700][0000019BD0B19340 49] iPhone5S, [0000019BCFB1CF00][0000019BD0B1D4C0 49] iPhone6Plus, [0000019BCFB1BC00][0000019BD0B21640 49] iPhone6S, [0000019BCFB1EE00][0000019BD0B257C0 49] iPhone6SPlus, [0000019BCFB19400][0000019BCD2AF900 49] iPhone7Plus, [0000019BCFB1E800][0000019BD0B29A40 49] iPhoneSE, [0000019BCFB1A600][0000019BD0B2DB80 49] iPhone8, [0000019BCFB1CA00][0000019BD0B35D00 49] iPhone8Plus, [0000019BCFB1AD00][0000019BD0B381C0 49] iPhoneX, [0000019BCFB1EA00][0000019BD0B3C340 49] iPhoneXS, [0000019BCFB1B100][0000019BD0B404C0 49] iPhoneXSMax, [0000019BCFB1CD00][0000019BD0B44640 49] iPhoneXR, [0000019BCFB1B700][0000019BD0B487C0 49] iPhone11, [0000019BCFB1DE00][0000019BD0B4C940 49] iPhone11Pro, [0000019BCFB19600][0000019BD0B50AC0 49] iPhone11ProMax, [0000019BCFB1D200][0000019BD0B54C40 49] iPhoneSE2, [0000019BCFB1A200][0000019BD0B58DC0 49] iPhone12Mini, [0000019BCFB1E300][0000019BD0B5CF40 49] iPhone12, [0000019BCFB1A700][0000019BD0B610C0 49] iPhone12Pro, [0000019BCFB1CC00][0000019BD0B65240 49] iPhone12ProMax, [0000019BCFB1A100][0000019BD0B893C0 49] iPadPro105, [0000019BCFB1D800][0000019BD0B8D540 49] iPadPro129, [0000019BCFB18E00][0000019BD0B916C0 49] iPadPro97, [0000019BCFB1FF00][0000019BD0B95840 49] iPadPro2_129, [0000019BCFB1AF00][0000019BD0B31980 49] iPad5, [0000019BCFB1F900][0000019BD0B9DAC0 49] iPad6, [0000019BCFB18C00][0000019BD0BA9C00 49] iPad7, [0000019BCFB1C500][0000019BD0BB80C0 49] iPad8, [0000019BCFB1B800][0000019BD0BBC240 49] iPadPro11, [0000019BCFB1E000][0000019BD0BC03C0 49] iPadPro2_11, [0000019BCFB18900][0000019BD0BD0540 49] iPadPro3_129, [0000019BCFB1EC00][0000019BD0BD46C0 49] iPadPro4_129, [0000019BCFB19500][0000019BD0BD8840 49] AppleTV, [0000019BCFB1EF00][0000019BD0BDC9C0 49] AppleTV4K, [0000019BCFB18F00][0000019BD0BE0B40 49] TVOS, [0000019BCFB1F800][0000019BD0BE4CC0 49] Mac, [0000019BCFB1A400][0000019BD0BE8E40 49] MacClient, [0000019BCFB1E500][0000019BD0BECFC0 49] MacNoEditor, [0000019BCFB6FB00][0000019BD0BF1140 49] MacServer, [0000019BCFBF8E00][0000019BD0BF52C0 49] Linux, [0000019BCFB6F300][0000019BD0BF9440 49] LinuxNoEditor, [0000019BCFBF8500][0000019BD0BFD5C0 49] LinuxAArch64NoEditor, [0000019BCFB6EB00][0000019BD0C21740 49] LinuxClient, [0000019BCFBF8400][0000019BD0C258C0 49] LinuxAArch64Client, [0000019BCFB6C200][0000019BD0BB5A00 49] LinuxServer, [0000019BCFBF9300][0000019BD0C29B40 49] LinuxAArch64Server, [0000019BCFB6E000][0000019BD0C2DC80 49] Android, [0000019BCFBF8100][0000019BD0C30100 49] Android_Low, [0000019BCFB6E100][0000019BD0C38280 49] Android_Mid, [0000019BCFBF8700][0000019BD0C3C400 49] Android_High, [0000019BCFB6C500][0000019BD0C40580 49] Android_Default, [0000019BCFB1F200][0000019BD0C44700 49] Android_Adreno4xx, [0000019BCFB6F000][0000019BD0C48880 49] Android_Adreno5xx_Low, [0000019BCFB1E200][0000019BD0C4CA00 49] Android_Adreno5xx, [0000019BCFB6EA00][0000019BD0C50B80 49] Android_Adreno6xx, [0000019BCFB1DA00][0000019BD0C54D00 49] Android_Adreno6xx_Vulkan, [0000019BCFB6D600][0000019BD0C58E80 49] Android_Mali_T6xx, [0000019BCFB1D900][0000019BD0C5D000 49] Android_Mali_T7xx, [0000019BCFB6D900][0000019BD0C61180 49] Android_Mali_T8xx, [0000019BCFB1D600][0000019BD0C65300 49] Android_Mali_G71, [0000019BCFB6E500][0000019BD0C69480 49] Android_Mali_G72, [0000019BCFB1F500][0000019BD0C6D600 49] Android_Mali_G72_Vulkan, [0000019BCFB6C800][0000019BD0C71780 49] Android_Mali_G76, [0000019BCFB1FB00][0000019BD0C75900 49] Android_Mali_G76_Vulkan, [0000019BCFB6CF00][0000019BD0C35A40 49] Android_Mali_G77, [0000019BCFB1F000][0000019BD0C79B80 49] Android_Mali_G77_Vulkan, [0000019BCFB6F800][0000019BD0C7DCC0 49] Android_Vulkan_SM5, [0000019BCFB1F300][0000019BD0C80140 49] Android_PowerVR_G6xxx, [0000019BCFB6F200][0000019BD0CC42C0 49] Android_PowerVR_GT7xxx, [0000019BCFB1ED00][0000019BD0CC8440 49] Android_PowerVR_GE8xxx, [0000019BCFB6C100][0000019BD0CCC5C0 49] Android_PowerVR_GM9xxx, [0000019BCFB1F400][0000019BD0CD0740 49] Android_PowerVR_GM9xxx_Vulkan, [0000019BCFB6F400][0000019BD0CD48C0 49] Android_TegraK1, [0000019BCFB1FD00][0000019BD0CD8A40 49] Android_Unknown_Vulkan, [0000019BCFB6DB00][0000019BD0CDCBC0 49] Lumin, [0000019BCFB1C700][0000019BD0CE0D40 49] Lumin_Desktop, [0000019BCFB6FA00][0000019BD0CE4EC0 49] HoloLens, 
+[2021.06.30-23.36.26:029][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.30-23.36.26:029][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.30-23.36.26:029][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.30-23.36.26:029][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.30-23.36.26:029][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.30-23.36.26:167][  0]LogNetVersion: AdvancedLocomotionV3 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3455729164)
+[2021.06.30-23.36.26:819][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.30-23.36.26:885][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.064579 seconds
+[2021.06.30-23.36.26:892][  0]LogUObjectArray: 16826 objects as part of root set at end of initial load.
+[2021.06.30-23.36.26:892][  0]LogUObjectAllocator: 4208096 out of 0 bytes used by permanent object pool.
+[2021.06.30-23.36.26:892][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.30-23.36.27:385][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.30-23.36.27:391][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.30-23.36.27:566][  0]SourceControl: Source control is disabled
+[2021.06.30-23.36.27:566][  0]SourceControl: Source control is disabled
+[2021.06.30-23.36.27:570][  0]SourceControl: Source control is disabled
+[2021.06.30-23.36.27:573][  0]SourceControl: Source control is disabled
+[2021.06.30-23.36.27:581][  0]SourceControl: Source control is disabled
+[2021.06.30-23.36.27:589][  0]LogUProjectInfo: Found projects:
+[2021.06.30-23.36.27:816][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.30-23.36.27:842][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.30-23.36.27:842][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.30-23.36.27:903][  0]LogCollectionManager: Loaded 0 collections in 0.002099 seconds
+[2021.06.30-23.36.27:932][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Collections/' took 0.00s
+[2021.06.30-23.36.27:932][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/Developers/subc/Collections/' took 0.00s
+[2021.06.30-23.36.27:932][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/Collections/' took 0.00s
+[2021.06.30-23.36.27:932][  0]LogOcInput: OculusInput pre-init called
+[2021.06.30-23.36.27:944][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.30-23.36.27:945][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.30-23.36.28:012][  0]LogEngine: Initializing Engine...
+[2021.06.30-23.36.28:013][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.30-23.36.28:013][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.30-23.36.28:014][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.30-23.36.28:210][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.30-23.36.28:224][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.30-23.36.28:237][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.30-23.36.28:242][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.30-23.36.28:242][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.30-23.36.28:242][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.36.28:242][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.36.28:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.36.28:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.36.28:242][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.36.28:242][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.36.28:242][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.36.28:242][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.36.28:243][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.36.28:243][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.36.28:256][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.36.28:256][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.36.28:316][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.06.30-23.36.28:320][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.36.28:321][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.36.28:322][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.36.28:323][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.36.28:323][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.36.28:323][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.36.28:324][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.36.28:324][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.36.28:324][  0]LogInit: FAudioDevice initialized.
+[2021.06.30-23.36.28:324][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.30-23.36.28:324][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.30-23.36.28:593][  0]LogDerivedDataCache: Saved boot cache 0.27s 77MB C:/Users/sub_c/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.30-23.36.28:593][  0]LogInit: Texture streaming: Enabled
+[2021.06.30-23.36.28:618][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.06.30-23.36.28:734][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.30-23.36.28:769][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4FDF9ACC-468C-23AB-9C87-39AF4A57A005}
+[2021.06.30-23.36.28:769][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.30-23.36.28:774][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.30-23.36.28:831][  0]LogInit: Transaction tracking system initialized
+[2021.06.30-23.36.28:858][  0]BlueprintLog: New page: Editor Load
+[2021.06.30-23.36.28:939][  0]LocalizationService: Localization service is disabled
+[2021.06.30-23.36.28:967][  0]TimingProfiler: Initialize
+[2021.06.30-23.36.28:967][  0]TimingProfiler: OnSessionChanged
+[2021.06.30-23.36.28:967][  0]LoadingProfiler: Initialize
+[2021.06.30-23.36.28:967][  0]LoadingProfiler: OnSessionChanged
+[2021.06.30-23.36.28:967][  0]NetworkingProfiler: Initialize
+[2021.06.30-23.36.28:968][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.30-23.36.28:968][  0]MemoryProfiler: Initialize
+[2021.06.30-23.36.28:968][  0]MemoryProfiler: OnSessionChanged
+[2021.06.30-23.36.29:234][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.30-23.36.29:235][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.30-23.36.29:480][  0]LogFileCache: Scanning file cache for directory 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/' took 0.03s
+[2021.06.30-23.36.29:851][  0]SourceControl: Source control is disabled
+[2021.06.30-23.36.29:851][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.567
+[2021.06.30-23.36.29:851][  0]Cmd: MAP LOAD FILE="C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.30-23.36.29:852][  0]LightingResults: New page: Lighting Build
+[2021.06.30-23.36.29:853][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.36.29:853][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.36.29:853][  0]MapCheck: New page: Map Check
+[2021.06.30-23.36.29:853][  0]LightingResults: New page: Lighting Build
+[2021.06.30-23.36.29:863][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.06.30-23.36.30:057][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:057][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:226][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves': Can't find file.
+[2021.06.30-23.36.30:227][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves': Can't find file.
+[2021.06.30-23.36.30:227][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:228][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:228][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves': Can't find file.
+[2021.06.30-23.36.30:228][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:229][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep_Crouched.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves': Can't find file.
+[2021.06.30-23.36.30:229][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep_Crouched.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:230][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep_Crouched.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves': Can't find file.
+[2021.06.30-23.36.30:230][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Aim_Sweep_Crouched.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:231][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Poses.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:231][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Poses.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:232][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Poses.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:232][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Poses.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:233][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Poses.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:233][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:234][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:234][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:234][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:235][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Run_F_Arms.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:235][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Run_F_Arms.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:236][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Run_F_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:236][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Run_F_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:236][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:237][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:237][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:237][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Create_LayeringCurves': Can't find file.
+[2021.06.30-23.36.30:238][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms': Can't find file.
+[2021.06.30-23.36.30:239][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms': Can't find file.
+[2021.06.30-23.36.30:239][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:239][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:240][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:240][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:240][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms': Can't find file.
+[2021.06.30-23.36.30:241][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:241][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:241][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:242][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:242][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:243][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Impulse_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms': Can't find file.
+[2021.06.30-23.36.30:243][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Impulse_Arms.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:243][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Impulse_Arms.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:243][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Impulse_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:244][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Impulse_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Run_F_Arms': Can't find file.
+[2021.06.30-23.36.30:244][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\AnimationExamples\Overlay\M4A1\ALS_Props_M4A1_Sprint_F_Impulse_Arms.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:244][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:245][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:245][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:245][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: Failed to load '/Game/ALS_Component/Blueprints/AnimModifiers/Copy_Curves': Can't find file.
+[2021.06.30-23.36.30:788][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:788][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton Referenced by ALS_Props_M4A1_Poses
+[2021.06.30-23.36.30:789][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:789][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton Referenced by ALS_Props_M4A1_Run_F_Arms
+[2021.06.30-23.36.30:789][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:789][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton Referenced by ALS_Props_M4A1_Sprint_F_Arms
+[2021.06.30-23.36.30:790][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:790][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton Referenced by ALS_Props_M4A1_Sprint_F_Impulse_Arms
+[2021.06.30-23.36.30:791][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves': Can't find file.
+[2021.06.30-23.36.30:791][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves.ALS_Props_M4A1_Poses_NoCurves Referenced by ALS_Props_M4A1_Aim_Sweep
+[2021.06.30-23.36.30:791][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:791][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton Referenced by ALS_Props_M4A1_Aim_Sweep
+[2021.06.30-23.36.30:792][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves': Can't find file.
+[2021.06.30-23.36.30:792][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/AnimationExamples/Overlay/M4A1/ALS_Props_M4A1_Poses_NoCurves.ALS_Props_M4A1_Poses_NoCurves Referenced by ALS_Props_M4A1_Aim_Sweep_Crouched
+[2021.06.30-23.36.30:792][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton': Can't find file.
+[2021.06.30-23.36.30:792][  0]LoadErrors: Failed to load /Game/ALS_Component/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton Referenced by ALS_Props_M4A1_Aim_Sweep_Crouched
+[2021.06.30-23.36.30:798][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:817][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:827][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Barrel': Can't find file.
+[2021.06.30-23.36.30:827][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Barrel': Can't find file.
+[2021.06.30-23.36.30:828][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Binoculars': Can't find file.
+[2021.06.30-23.36.30:828][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Binoculars': Can't find file.
+[2021.06.30-23.36.30:828][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow': Can't find file.
+[2021.06.30-23.36.30:829][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow': Can't find file.
+[2021.06.30-23.36.30:829][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:829][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Box': Can't find file.
+[2021.06.30-23.36.30:830][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Box': Can't find file.
+[2021.06.30-23.36.30:830][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M4A1': Can't find file.
+[2021.06.30-23.36.30:830][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M4A1': Can't find file.
+[2021.06.30-23.36.30:831][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M9': Can't find file.
+[2021.06.30-23.36.30:831][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M9': Can't find file.
+[2021.06.30-23.36.30:832][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Torch': Can't find file.
+[2021.06.30-23.36.30:832][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Torch': Can't find file.
+[2021.06.30-23.36.30:832][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow': Can't find file.
+[2021.06.30-23.36.30:833][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M4A1': Can't find file.
+[2021.06.30-23.36.30:833][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M9': Can't find file.
+[2021.06.30-23.36.30:833][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Barrel': Can't find file.
+[2021.06.30-23.36.30:833][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Binoculars': Can't find file.
+[2021.06.30-23.36.30:834][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Box': Can't find file.
+[2021.06.30-23.36.30:834][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Torch': Can't find file.
+[2021.06.30-23.36.30:844][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M4A1': Can't find file.
+[2021.06.30-23.36.30:844][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/M4A1.M4A1 Referenced by K2Node_CallFunction_2
+[2021.06.30-23.36.30:844][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M9': Can't find file.
+[2021.06.30-23.36.30:844][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/M9.M9 Referenced by K2Node_CallFunction_11
+[2021.06.30-23.36.30:845][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow': Can't find file.
+[2021.06.30-23.36.30:845][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Bow.Bow Referenced by K2Node_CallFunction_4
+[2021.06.30-23.36.30:845][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:845][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP.Bow_AnimBP_C Referenced by K2Node_CallFunction_4
+[2021.06.30-23.36.30:846][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Torch': Can't find file.
+[2021.06.30-23.36.30:846][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Torch.Torch Referenced by K2Node_CallFunction_5
+[2021.06.30-23.36.30:846][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Binoculars': Can't find file.
+[2021.06.30-23.36.30:846][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Binoculars.Binoculars Referenced by K2Node_CallFunction_6
+[2021.06.30-23.36.30:847][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Box': Can't find file.
+[2021.06.30-23.36.30:847][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Box.Box Referenced by K2Node_CallFunction_7
+[2021.06.30-23.36.30:847][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Barrel': Can't find file.
+[2021.06.30-23.36.30:847][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Barrel.Barrel Referenced by K2Node_CallFunction_0
+[2021.06.30-23.36.30:848][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M9': Can't find file.
+[2021.06.30-23.36.30:848][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/M9.M9 Referenced by K2Node_CallFunction_3
+[2021.06.30-23.36.30:875][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:875][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP.Bow_AnimBP_C Referenced by K2Node_DynamicCast_0
+[2021.06.30-23.36.30:876][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:876][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP.Bow_AnimBP_C Referenced by K2Node_DynamicCast_0
+[2021.06.30-23.36.30:876][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:876][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP.Bow_AnimBP_C Referenced by K2Node_VariableSet_8
+[2021.06.30-23.36.30:877][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:877][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP.Bow_AnimBP_C Referenced by K2Node_VariableSet_8
+[2021.06.30-23.36.30:879][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\AI\ALS_BTTask_SetFocus.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.30:879][  0]LoadErrors: Failed to load /Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP.Bow_AnimBP_C Referenced by SkeletalMesh_GEN_VARIABLE
+[2021.06.30-23.36.31:505][  0]LogBlueprint: Error: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Evaluate ALS_N_LandRoll_F  references sequence that uses different skeleton  ALS_Mannequin_Skeleton
+[2021.06.30-23.36.31:799][  0]LogBlueprint: Error: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\CharacterAssets\MannequinSkeleton\ALS_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequenceEvaluator_19 while searching for node links - likely due to the node having outstanding errors.
+[2021.06.30-23.36.32:436][  0]LogBlueprint: Error: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.06.30-23.36.32:436][  0]LogBlueprint: Error: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.06.30-23.36.32:436][  0]LogBlueprint: Error: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: [Compiler] In use pin  As Bow Anim BP  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.06.30-23.36.32:437][  0]LogBlueprint: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: [Compiler] Could not find a variable named "Draw" in 'ALS_AnimMan_CharacterBP'.
+Make sure 'ALS_AnimMan_CharacterBP' has been compiled for  Set Draw
+[2021.06.30-23.36.32:706][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.32:707][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.32:708][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Barrel': Can't find file.
+[2021.06.30-23.36.32:708][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Binoculars': Can't find file.
+[2021.06.30-23.36.32:709][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow': Can't find file.
+[2021.06.30-23.36.32:709][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow_AnimBP': Can't find file.
+[2021.06.30-23.36.32:709][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Box': Can't find file.
+[2021.06.30-23.36.32:709][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M4A1': Can't find file.
+[2021.06.30-23.36.32:710][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M9': Can't find file.
+[2021.06.30-23.36.32:710][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Torch': Can't find file.
+[2021.06.30-23.36.32:711][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Bow': Can't find file.
+[2021.06.30-23.36.32:711][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M4A1': Can't find file.
+[2021.06.30-23.36.32:711][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/M9': Can't find file.
+[2021.06.30-23.36.32:712][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Barrel': Can't find file.
+[2021.06.30-23.36.32:712][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Binoculars': Can't find file.
+[2021.06.30-23.36.32:712][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Box': Can't find file.
+[2021.06.30-23.36.32:712][  0]LogLinker: Warning: [AssetLog] C:\Users\sub_c\Documents\Unreal Projects\AdvancedLocomotionV3\Content\AdvancedLocomotionV4\Blueprints\CharacterLogic\ALS_AnimMan_CharacterBP.uasset: Failed to load '/Game/AdvancedLocomotionV4/Props/Meshes/Torch': Can't find file.
+[2021.06.30-23.36.32:740][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.32:740][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.32:740][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.32:740][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.32:740][  0]LogEnum: Warning: Enum name collision: 'FootstepType::FootstepType_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.32:754][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.06.30-23.36.32:754][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.06.30-23.36.32:754][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::ALS_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.06.30-23.36.32:754][  0]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.06.30-23.36.32:754][  0]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.06.30-23.36.32:754][  0]LogEnum: Warning: Enum name collision: 'MovementDirection::MovementDirection_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::ALS_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::ALS_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.06.30-23.36.32:755][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::ALS_MAX' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.06.30-23.36.33:079][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.06.30-23.36.33:079][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.06.30-23.36.33:079][  0]LogEnum: Warning: Enum name collision: 'ALS_Gait::NewEnumerator2' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Gait.ALS_Gait' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait'
+[2021.06.30-23.36.33:079][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.06.30-23.36.33:079][  0]LogEnum: Warning: Enum name collision: 'ALS_Stance::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_Stance.ALS_Stance' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance'
+[2021.06.30-23.36.33:080][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.06.30-23.36.33:080][  0]LogEnum: Warning: Enum name collision: 'ALS_RotationMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_RotationMode.ALS_RotationMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode'
+[2021.06.30-23.36.33:080][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.06.30-23.36.33:080][  0]LogEnum: Warning: Enum name collision: 'ALS_ViewMode::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/ALS_ViewMode.ALS_ViewMode' and '/Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode'
+[2021.06.30-23.36.33:537][  0]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.06.30-23.36.33:537][  0]LogEnum: Warning: Enum name collision: 'MovementDirection::NewEnumerator1' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/MovementDirection.MovementDirection' and '/Game/AdvancedLocomotionV4/Data/Enums/MovementDirection.MovementDirection'
+[2021.06.30-23.36.34:652][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator0' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.34:652][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator4' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.34:652][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator7' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.34:652][  0]LogEnum: Warning: Enum name collision: 'FootstepType::NewEnumerator8' is in both '/Game/AdvancedLocomotionV3/Blueprints/Enums/FootstepType.FootstepType' and '/Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType'
+[2021.06.30-23.36.34:734][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ALS_DemoLevel'.
+[2021.06.30-23.36.34:735][  0]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2021.06.30-23.36.34:811][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.30-23.36.34:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.06.30-23.36.34:894][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.30-23.36.34:894][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2021.06.30-23.36.34:894][  0]LogFileHelpers: Loading map 'ALS_DemoLevel' took 5.042
+[2021.06.30-23.36.34:897][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.612
+[2021.06.30-23.36.35:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.36.35:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.36.35:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.36.35:135][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.36.35:152][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3601 classes and 859 folders.
+[2021.06.30-23.36.35:160][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.30-23.36.35:161][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-23.36.35:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-23.36.35:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.30-23.36.35:162][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.30-23.36.35:162][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.30-23.36.35:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.30-23.36.35:163][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.30-23.36.35:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.30-23.36.35:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.30-23.36.35:164][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-23.36.35:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-23.36.35:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.06.30-23.36.35:164][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.30-23.36.35:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.30-23.36.35:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.30-23.36.35:165][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.30-23.36.35:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.30-23.36.35:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.30-23.36.35:166][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.30-23.36.35:166][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:166][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.30-23.36.35:166][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.30-23.36.35:166][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.30-23.36.35:167][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.30-23.36.35:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.30-23.36.35:167][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-23.36.35:167][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:167][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-23.36.35:167][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.30-23.36.35:168][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.30-23.36.35:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.30-23.36.35:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.30-23.36.35:169][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.30-23.36.35:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.30-23.36.35:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.30-23.36.35:169][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-23.36.35:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-23.36.35:170][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.30-23.36.35:170][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-23.36.35:170][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:170][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-23.36.35:170][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.30-23.36.35:171][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-23.36.35:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:171][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-23.36.35:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.06.30-23.36.35:171][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.30-23.36.35:171][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.30-23.36.35:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.06.30-23.36.35:172][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-23.36.35:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-23.36.35:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.06.30-23.36.35:173][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.30-23.36.35:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.30-23.36.35:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.30-23.36.35:174][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-23.36.35:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-23.36.35:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.06.30-23.36.35:174][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-23.36.35:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-23.36.35:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.06.30-23.36.35:175][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-23.36.35:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-23.36.35:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.06.30-23.36.35:176][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.30-23.36.35:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.30-23.36.35:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.06.30-23.36.35:176][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.30-23.36.35:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.30-23.36.35:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.06.30-23.36.35:177][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.30-23.36.35:177][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.30-23.36.35:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.06.30-23.36.35:178][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.30-23.36.35:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.30-23.36.35:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.06.30-23.36.35:178][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.30-23.36.35:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.30-23.36.35:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.06.30-23.36.35:179][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.30-23.36.35:179][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.30-23.36.35:179][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.30-23.36.35:179][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.06.30-23.36.35:217][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.30-23.36.35:219][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.30-23.36.35:257][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.30-23.36.35:259][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.30-23.36.35:265][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.30-23.36.35:457][  0]LogRenderer: Reallocating scene render targets to support 844x372 Format 10 NumSamples 1 (Frame:1).
+[2021.06.30-23.36.36:254][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-23.36.36:334][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.30-23.36.36:334][  0]LogLoad: (Engine Initialization) Total time: 16.05 seconds
+[2021.06.30-23.36.36:334][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.30-23.36.36:334][  0]LogInit: First time updating LLM stats...
+[2021.06.30-23.36.36:507][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.30-23.36.36:569][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.30-23.36.36:606][  1]LogAssetRegistry: Asset discovery search completed in 11.1132 seconds
+[2021.06.30-23.36.36:609][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.06.30-23.36.38:738][ 60]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-23.36.38:742][ 60]LogSlate: Window 'Message Log' being destroyed
+[2021.06.30-23.36.43:156][426]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.30-23.36.43:212][426]LogMaterial: Display: Missing cached shader map for material M_GridLevel_Background, compiling. 
+[2021.06.30-23.36.43:237][426]LogMaterial: Display: Missing cached shader map for material M_GridLevel_Grid, compiling. 
+[2021.06.30-23.36.43:267][426]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.30-23.36.43:267][426]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.06.30-23.36.43:267][426]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.06.30-23.36.43:267][426]LogMaterial: Display: Missing cached shader map for material M_GridLevel_Objects, compiling. 
+[2021.06.30-23.36.43:421][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleObjectBuilder.SimpleObjectBuilder_C' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.PackageMetaData'
+[2021.06.30-23.36.43:421][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleObjectBuilder.SimpleObjectBuilder:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.PackageMetaData'
+[2021.06.30-23.36.43:421][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleObjectBuilder.SKEL_SimpleObjectBuilder_C:UserConstructionScript' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.PackageMetaData'
+[2021.06.30-23.36.43:421][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleObjectBuilder.SKEL_SimpleObjectBuilder_C' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.PackageMetaData'
+[2021.06.30-23.36.43:421][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleObjectBuilder.SimpleObjectBuilder_C:UserConstructionScript' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.PackageMetaData'
+[2021.06.30-23.36.43:456][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Arch_01.Complex_Arch_01' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_01.PackageMetaData'
+[2021.06.30-23.36.43:463][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Arch_02.Complex_Arch_02' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_02.PackageMetaData'
+[2021.06.30-23.36.43:470][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Barrel.Complex_Barrel' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel.PackageMetaData'
+[2021.06.30-23.36.43:477][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Barrel_Broken.Complex_Barrel_Broken' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel_Broken.PackageMetaData'
+[2021.06.30-23.36.43:487][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Bench.Complex_Bench' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Bench.PackageMetaData'
+[2021.06.30-23.36.43:494][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Cart.Complex_Cart' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Cart.PackageMetaData'
+[2021.06.30-23.36.43:503][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Crate.Complex_Crate' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate.PackageMetaData'
+[2021.06.30-23.36.43:510][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Crate_Broken.Complex_Crate_Broken' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate_Broken.PackageMetaData'
+[2021.06.30-23.36.43:518][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Fountain_01.Complex_Fountain_01' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Fountain_01.PackageMetaData'
+[2021.06.30-23.36.43:525][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Rock.Complex_Rock' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Rock.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject_C' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject:EventGraph.K2Node_Event_0' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject:UpdateObjectLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SKEL_SimpleMovingObject_C:ReceiveTick' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SKEL_SimpleMovingObject_C:evented' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SKEL_SimpleMovingObject_C:multievented' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:570][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SKEL_SimpleMovingObject_C:UserConstructionScript' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:571][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SKEL_SimpleMovingObject_C' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:571][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject_C:ReceiveTick' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:571][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject_C:UserConstructionScript' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:571][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject_C:multievented' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:571][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject_C:evented' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/SimpleMovingObject.PackageMetaData'
+[2021.06.30-23.36.43:586][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Fountain_02.Complex_Fountain_02' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Fountain_02.PackageMetaData'
+[2021.06.30-23.36.43:603][426]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Floor_1km.Simple_Floor_1km' ref from Metadata '/Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Floor_1km.PackageMetaData'
+[2021.06.30-23.36.43:991][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/T_Tiles_M34579CB647C3836EE5F6329345DFEA9A.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_Tiles_M.uasset'
+[2021.06.30-23.36.43:995][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/T_Tiles_M208CE90D43F4BF7D998BE09D66305AAA.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/Textures/T_Tiles_M.uasset'
+[2021.06.30-23.36.44:359][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/T_Tiles_NA52E92144F7EEFFA2AA23CABE107870F.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_Tiles_N.uasset'
+[2021.06.30-23.36.44:363][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/T_Tiles_N4448AA4E4F07CE9E91572881C91BC3B6.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/Textures/T_Tiles_N.uasset'
+[2021.06.30-23.36.44:420][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_TilesB8DCFE7442B75962BD83249E18198AE6.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/M_Tiles.uasset'
+[2021.06.30-23.36.44:422][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_Tiles7EF64E524B78FED7B4AEDABBF2F45016.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/M_Tiles.uasset'
+[2021.06.30-23.36.44:589][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Block_1x1975218574788D48599C6DCA90032832C.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Block_1x1.uasset'
+[2021.06.30-23.36.44:625][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Block_3x3151F8B1B4684F905F39597AAE43353DD.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Block_3x3.uasset'
+[2021.06.30-23.36.44:628][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Block_3x30E51EBB54CA526C3A700EB8B5FD8D0C9.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_Block_3x3.uasset'
+[2021.06.30-23.36.44:719][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/SimpleObjectBuilder3CBD3A6D4686040723432E807FD53168.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/SimpleObjectBuilder.uasset'
+[2021.06.30-23.36.44:723][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/SimpleObjectBuilderC9D6430A4422106D3A0FC49E34CE27CB.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.uasset'
+[2021.06.30-23.36.44:741][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/RobotoDistanceField_Outlines5B82F22D4A2DCA043B309D87AC40B7B5.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Text/RobotoDistanceField_Outlines.uasset'
+[2021.06.30-23.36.44:744][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/RobotoDistanceField_Outlines874750154610FB27A482E8B4955E06A6.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Text/RobotoDistanceField_Outlines.uasset'
+[2021.06.30-23.36.44:781][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_Object19C1844049BCA1E3B0CD40B9F59AD432.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/M_Object.uasset'
+[2021.06.30-23.36.44:784][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_ObjectF803680F46ADD6913C77C3BE798AA2B8.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/M_Object.uasset'
+[2021.06.30-23.36.44:824][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_OutlinedText7FBBA785435D0DE39E23D681EE094085.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Text/M_OutlinedText.uasset'
+[2021.06.30-23.36.44:827][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_OutlinedText095B77FD485836A21F6C7CAB17F897DD.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Text/M_OutlinedText.uasset'
+[2021.06.30-23.36.44:864][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_LandscapeC3FA126746BC0FBE67D45882EFB259DE.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/M_Landscape.uasset'
+[2021.06.30-23.36.44:879][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_LandscapeC00377EF400EF0E24668789DC672E69C.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/M_Landscape.uasset'
+[2021.06.30-23.36.44:926][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Arch_0154D48339415BC8AA9808C785C5B75B8C.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Arch_01.uasset'
+[2021.06.30-23.36.44:929][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Arch_015E0D6BFB47D5BA5C73301DB4BD0D70BB.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_01.uasset'
+[2021.06.30-23.36.44:976][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Arch_029DC7FA2C469DF7C1E813068C5F16F95E.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Arch_02.uasset'
+[2021.06.30-23.36.44:980][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Arch_0220321AD440CD461C9384CFAC82B63568.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_02.uasset'
+[2021.06.30-23.36.45:043][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Barrel01E588534BD647F919407EAD4B8F00A0.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Barrel.uasset'
+[2021.06.30-23.36.45:045][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Barrel0ED2A2524E8A1AFF1E62258F5C8B4D9D.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel.uasset'
+[2021.06.30-23.36.45:098][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Barrel_BrokenADC4A8C54A3F001BACFB41B742C8E277.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Barrel_Broken.uasset'
+[2021.06.30-23.36.45:101][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Barrel_Broken130D60314A4C7524D24A2084276F5CBE.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel_Broken.uasset'
+[2021.06.30-23.36.45:176][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Bench7512C17543DE4C80A48EE18A56CC049B.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Bench.uasset'
+[2021.06.30-23.36.45:179][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Bench07E60791467AC96F9016EDADBCEE930B.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Bench.uasset'
+[2021.06.30-23.36.45:231][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Cart08A1731C4758923A7DE55CA69357728E.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Cart.uasset'
+[2021.06.30-23.36.45:234][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_CartE0A678C643A077EB72ED29B42E79E617.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Cart.uasset'
+[2021.06.30-23.36.45:278][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Crate24A4C7B34F225ABC2FFAE8B4335A02EA.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Crate.uasset'
+[2021.06.30-23.36.45:281][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_CrateF7BB52A2431237D4904BB49A698CDBEF.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate.uasset'
+[2021.06.30-23.36.45:331][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Crate_Broken77C3F2084DE6583D36AEFDA3B112D5A4.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Crate_Broken.uasset'
+[2021.06.30-23.36.45:334][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Crate_Broken40B7E1BD4DB8AADCC2460FAACDC01E88.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate_Broken.uasset'
+[2021.06.30-23.36.45:391][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Fountain_01CA3A9AA74E829DE58FC122857E30C4BB.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Fountain_01.uasset'
+[2021.06.30-23.36.45:394][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Fountain_0111FA5F0D4DA3CAB8C8CCD7842BFCC642.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Fountain_01.uasset'
+[2021.06.30-23.36.45:446][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_RockA5CCB5F0424ECF1242869C9C8219C52D.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Rock.uasset'
+[2021.06.30-23.36.45:449][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_RockAD1E97AB48BD667951F85B80F8EBB182.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Rock.uasset'
+[2021.06.30-23.36.45:487][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Block_2x20EB5593C43859AE125C7A6BA57F9A25F.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Block_2x2.uasset'
+[2021.06.30-23.36.45:489][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Block_2x2F399B05B4BF9F7E9041C58BEF2EB8D8D.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_Block_2x2.uasset'
+[2021.06.30-23.36.45:528][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Floor_20x203CAE392C4EA41E767C2D0BA4DC4A0B8D.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Floor_20x20.uasset'
+[2021.06.30-23.36.45:531][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Floor_20x20236FA4564D2933372E56BBA7A584FB3F.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_Floor_20x20.uasset'
+[2021.06.30-23.36.45:570][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_InfoWall_3x575F3712D44A4723E75B2F198ACD7F72F.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_InfoWall_3x5.uasset'
+[2021.06.30-23.36.45:573][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_InfoWall_3x56D5062624666FE2BBED15D8A8657C55A.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_InfoWall_3x5.uasset'
+[2021.06.30-23.36.45:612][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Pillar1697E4304FED4CDF2E6C9A877E3C2726.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Pillar.uasset'
+[2021.06.30-23.36.45:615][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Pillar9D43460640D28D35D6698A813C8814CB.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_Pillar.uasset'
+[2021.06.30-23.36.45:652][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_TitleBoardAE34FA4241FFACB67006C6AC2F6DD3D8.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_TitleBoard.uasset'
+[2021.06.30-23.36.45:655][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_TitleBoard94094B4D45893D800502AE9E63FBCB1C.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_TitleBoard.uasset'
+[2021.06.30-23.36.45:699][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Wall_2x20A29C9D174442938DFF3315A89BACE601.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Wall_2x20.uasset'
+[2021.06.30-23.36.45:701][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Wall_2x205926274A40E4CCF8D7C79E9969BBF94A.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_Wall_2x20.uasset'
+[2021.06.30-23.36.45:799][426]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.06.30-23.36.45:829][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/SimpleMovingObject0E5AF3B24B4E001B77F95FA7868E845E.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.uasset'
+[2021.06.30-23.36.45:832][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/SmoothObjectMovement42F6605F43279E05EA97CB8393E01AB4.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/SmoothObjectMovement.uasset'
+[2021.06.30-23.36.46:385][426]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.30-23.36.46:968][426]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.30-23.36.47:116][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_GridLevel_BackgroundEFC101E34088D5BA5611A4809D7869F9.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/M_GridLevel_Background.uasset'
+[2021.06.30-23.36.47:119][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_GridLevel_Background8CB58B6C424C0ADA28F39AB29FAE4D08.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/M_GridLevel_Background.uasset'
+[2021.06.30-23.36.48:799][426]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.30-23.36.49:349][426]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.30-23.36.49:909][426]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.30-23.36.50:280][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_GridLevel_GridBEF31E044F97B96213441392354F2B0A.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/M_GridLevel_Grid.uasset'
+[2021.06.30-23.36.50:283][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_GridLevel_GridDCC1BBA04550B2773B66609E2CA6AA89.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/M_GridLevel_Grid.uasset'
+[2021.06.30-23.36.50:386][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/M_GridLevel_ObjectsFF0DFDE1488D3B185A30148362F6D1E6.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/M_GridLevel_Objects.uasset'
+[2021.06.30-23.36.50:407][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/T_Checker_Noise_M464E7094441AD408FA5FF1A218E7CA37.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_Checker_Noise_M.uasset'
+[2021.06.30-23.36.50:441][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/T_WhiteLight_CubeMap4A68D65941A35EC620E81A89BAE4F834.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_WhiteLight_CubeMap.uasset'
+[2021.06.30-23.36.50:443][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/T_WhiteLight_CubeMap8DAFD93D492BC337BC439E8D846AF4CB.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Materials/Textures/T_WhiteLight_CubeMap.uasset'
+[2021.06.30-23.36.50:484][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Fountain_028A9D1B034AC9F2C71EEE1D906D1162A1.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Fountain_02.uasset'
+[2021.06.30-23.36.50:488][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Complex_Fountain_027585D39A482451CF9A03179E663B28DF.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Complex_Fountain_02.uasset'
+[2021.06.30-23.36.50:675][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Floor_1kmDB3F633E4E10A46C70630D908328DC15.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Floor_1km.uasset'
+[2021.06.30-23.36.50:678][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Floor_1km71BC35DF474EB51BD3C1A0867943CA4E.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Environment/Meshes/Simple_Floor_1km.uasset'
+[2021.06.30-23.36.50:704][426]LogSavePackage: Moving 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Saved/Simple_Platform_2x221502F2541F25A732469C9B829B1C306.tmp' to 'C:/Users/sub_c/Documents/Unreal Projects/AdvancedLocomotionV3/Content/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Platform_2x2.uasset'
+[2021.06.30-23.36.50:850][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.06.30-23.36.50:865][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.30-23.36.50:878][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.30-23.36.50:889][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.06.30-23.36.50:901][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.30-23.36.50:913][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.30-23.36.50:935][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.06.30-23.36.50:948][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.30-23.36.51:312][426]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Floor_1km.Simple_Floor_1km
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Fountain_02.Complex_Fountain_02
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/Textures/T_WhiteLight_CubeMap.T_WhiteLight_CubeMap
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/M_GridLevel_Grid.M_GridLevel_Grid
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/M_GridLevel_Background.M_GridLevel_Background
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Wall_2x20.Simple_Wall_2x20
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_TitleBoard.Simple_TitleBoard
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Pillar.Simple_Pillar
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_InfoWall_3x5.Simple_InfoWall_3x5
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Floor_20x20.Simple_Floor_20x20
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Block_2x2.Simple_Block_2x2
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Rock.Complex_Rock
+[2021.06.30-23.36.51:312][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Fountain_01.Complex_Fountain_01
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate_Broken.Complex_Crate_Broken
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Crate.Complex_Crate
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Cart.Complex_Cart
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Bench.Complex_Bench
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel_Broken.Complex_Barrel_Broken
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Barrel.Complex_Barrel
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_02.Complex_Arch_02
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Complex_Arch_01.Complex_Arch_01
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/M_Landscape.M_Landscape
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Text/M_OutlinedText.M_OutlinedText
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/M_Object.M_Object
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Text/RobotoDistanceField_Outlines.RobotoDistanceField_Outlines
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.SimpleObjectBuilder
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.Default__SimpleObjectBuilder_C
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/SimpleObjectBuilder.SimpleObjectBuilder_C
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Meshes/Simple_Block_3x3.Simple_Block_3x3
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/M_Tiles.M_Tiles
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/Textures/T_Tiles_N.T_Tiles_N
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating ObjectRedirector /Game/AdvancedLocomotionV4/Environment/Materials/Textures/T_Tiles_M.T_Tiles_M
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Platform_2x2.Simple_Platform_2x2
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Floor_1km.Simple_Floor_1km
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Fountain_02.Complex_Fountain_02
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating TextureCube /Game/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_WhiteLight_CubeMap.T_WhiteLight_CubeMap
+[2021.06.30-23.36.51:313][426]LogContentValidation: Display: Validating Texture2D /Game/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_Checker_Noise_M.T_Checker_Noise_M
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Material /Game/AdvancedLocomotionV4/Levels/Environment/Materials/M_GridLevel_Objects.M_GridLevel_Objects
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Material /Game/AdvancedLocomotionV4/Levels/Environment/Materials/M_GridLevel_Grid.M_GridLevel_Grid
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Material /Game/AdvancedLocomotionV4/Levels/Environment/Materials/M_GridLevel_Background.M_GridLevel_Background
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Texture2D /Game/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_Tiles_M.T_Tiles_M
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Texture2D /Game/AdvancedLocomotionV4/Levels/Environment/Materials/Textures/T_Tiles_N.T_Tiles_N
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Material /Game/AdvancedLocomotionV4/Levels/Environment/Materials/M_Tiles.M_Tiles
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Block_1x1.Simple_Block_1x1
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Block_3x3.Simple_Block_3x3
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Levels/Environment/SimpleObjectBuilder.SimpleObjectBuilder
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Levels/Environment/SimpleMovingObject.SimpleMovingObject
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating CurveFloat /Game/AdvancedLocomotionV4/Levels/Environment/SmoothObjectMovement.SmoothObjectMovement
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Font /Game/AdvancedLocomotionV4/Levels/Environment/Text/RobotoDistanceField_Outlines.RobotoDistanceField_Outlines
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Material /Game/AdvancedLocomotionV4/Levels/Environment/Materials/M_Object.M_Object
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating Material /Game/AdvancedLocomotionV4/Levels/Environment/Text/M_OutlinedText.M_OutlinedText
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/AdvancedLocomotionV4/Levels/Environment/Materials/M_Landscape.M_Landscape
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Arch_01.Complex_Arch_01
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Arch_02.Complex_Arch_02
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Barrel.Complex_Barrel
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Barrel_Broken.Complex_Barrel_Broken
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Bench.Complex_Bench
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Cart.Complex_Cart
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Crate.Complex_Crate
+[2021.06.30-23.36.51:314][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Crate_Broken.Complex_Crate_Broken
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Fountain_01.Complex_Fountain_01
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Complex_Rock.Complex_Rock
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Block_2x2.Simple_Block_2x2
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Floor_20x20.Simple_Floor_20x20
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_InfoWall_3x5.Simple_InfoWall_3x5
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Pillar.Simple_Pillar
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_TitleBoard.Simple_TitleBoard
+[2021.06.30-23.36.51:315][426]LogContentValidation: Display: Validating StaticMesh /Game/AdvancedLocomotionV4/Levels/Environment/Meshes/Simple_Wall_2x20.Simple_Wall_2x20
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_r' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_knee_target_l' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_r_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.36.59:364][165]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'VB ik_foot_l_Offset' does not exist in Skeleton 'ALS_Mannequin_Skeleton'
+[2021.06.30-23.37.08:277][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.06.30-23.37.10:350][960]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-23.37.35:078][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.30-23.37.39:319][  0]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-23.37.41:983][233]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.30-23.37.41:997][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.30-23.37.41:997][233]BlueprintLog: Warning: Blueprint failed to compile:  ALS_AnimMan_CharacterBP
+[2021.06.30-23.37.41:997][233]BlueprintLog: Warning: Blueprint failed to compile:  ALS_AnimBP
+[2021.06.30-23.37.41:998][233]LogCustomDialog: Dialog displayed:
+[2021.06.30-23.37.45:787][233]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.06.30-23.37.45:793][233]PIE: New page: PIE session: ALS_DemoLevel (1 ביולי 2021, 5:37:45)
+[2021.06.30-23.37.45:795][233]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.30-23.37.45:797][233]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.30-23.37.45:797][233]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2021.06.30-23.37.45:837][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040374s)
+[2021.06.30-23.37.45:839][233]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2021.06.30-23.37.45:840][233]LogPlayLevel: PIE: World Init took: (0.002148s)
+[2021.06.30-23.37.45:840][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (0.042775s)
+[2021.06.30-23.37.45:858][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.06.30-23.37.45:860][233]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.30-23.37.45:860][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.30-23.37.45:860][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.30-23.37.45:860][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.30-23.37.45:860][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.30-23.37.45:860][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.30-23.37.45:860][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.30-23.37.45:860][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.30-23.37.45:860][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.30-23.37.45:861][233]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.30-23.37.45:861][233]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.30-23.37.45:867][233]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.30-23.37.45:867][233]LogAudioMixer: Display: 1: FrontRight
+[2021.06.30-23.37.45:886][233]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.06.30-23.37.45:886][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.30-23.37.45:887][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.30-23.37.45:887][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.30-23.37.45:888][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.30-23.37.45:888][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.30-23.37.45:888][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.30-23.37.45:914][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.30-23.37.45:914][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.30-23.37.45:914][233]LogInit: FAudioDevice initialized.
+[2021.06.30-23.37.45:914][233]LogAudio: Display: Audio Device (ID: 2) registered with world 'ALS_DemoLevel'.
+[2021.06.30-23.37.45:963][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.37.45:963][233]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2021.06.30-23.37.45:975][233]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2021.07.01-02.37.45
+[2021.06.30-23.37.45:977][233]LogWorld: Bringing up level for play took: 0.012866
+[2021.06.30-23.37.45:978][233]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.06.30-23.37.46:325][233]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2021.06.30-23.37.46:338][233]PIE: Server logged in
+[2021.06.30-23.37.46:340][233]PIE: Play in editor total start time 4.345 seconds.
+[2021.06.30-23.37.46:550][234]LogRenderer: Reallocating scene render targets to support 1356x696 Format 10 NumSamples 1 (Frame:1).
+[2021.06.30-23.37.54:656][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.30-23.37.54:656][963]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2021.06.30-23.37.54:657][963]LogSlate: Window 'AdvancedLocomotionV3 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.30-23.37.54:661][963]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.30-23.37.54:664][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.37.54:672][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.30-23.37.54:676][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.30-23.37.54:694][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.37.54:696][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.30-23.37.54:725][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.06.30-23.37.54:756][964]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.06.30-23.37.59:737][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.06.30-23.38.04:673][402]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.30-23.38.05:214][402]LogUObjectGlobals: Force Deleting 22 Package(s):
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05.Concrete_Walk_05
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Footstep_Cue.Footstep_Cue
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/UI/Click.Click
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Run_04.Concrete_Run_04
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Run_03.Concrete_Run_03
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Run_02.Concrete_Run_02
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Run_01.Concrete_Run_01
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_04.Concrete_Pivot_04
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_03.Concrete_Pivot_03
+	Asset Name: /Game/AdvancedLocomotionV4/Audio/Background/Starter_Birds01.Starter_Birds01
+[2021.06.30-23.38.07:760][402]LogSlate: Window 'Message' being destroyed
+[2021.06.30-23.38.07:763][402]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05.Concrete_Walk_05 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05.Concrete_Walk_05:
+   SoundNodeWavePlayer /Game/AdvancedLocomotionV4/Audio/Footsteps/Footstep_Cue.Footstep_Cue:SoundNodeWavePlayer_24 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.06.30-23.38.07:763][402]LogObjectTools: Warning: ForceDeleteObject failed to delete Concrete_Walk_05, this package is now potentially corrupt
+[2021.06.30-23.38.10:301][402]LogSlate: Window 'Message' being destroyed
+[2021.06.30-23.38.10:305][402]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/AdvancedLocomotionV4/Audio/Background/Starter_Birds01.Starter_Birds01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/AdvancedLocomotionV4/Audio/Background/Starter_Birds01.Starter_Birds01:
+   SoundNodeWavePlayer /Game/AdvancedLocomotionV4/Audio/Background/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.06.30-23.38.10:305][402]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Birds01, this package is now potentially corrupt
+[2021.06.30-23.38.11:030][402]LogSlate: Window 'Message' being destroyed
+[2021.06.30-23.38.11:034][402]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/AdvancedLocomotionV4/Audio/Background/Starter_Wind05.Starter_Wind05 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/AdvancedLocomotionV4/Audio/Background/Starter_Wind05.Starter_Wind05:
+   SoundNodeWavePlayer /Game/AdvancedLocomotionV4/Audio/Background/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.06.30-23.38.11:034][402]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind05, this package is now potentially corrupt
+[2021.06.30-23.38.11:649][402]LogSlate: Window 'Message' being destroyed
+[2021.06.30-23.38.11:653][402]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/AdvancedLocomotionV4/Audio/Background/Starter_Wind06.Starter_Wind06 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/AdvancedLocomotionV4/Audio/Background/Starter_Wind06.Starter_Wind06:
+   SoundNodeWavePlayer /Game/AdvancedLocomotionV4/Audio/Background/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2021.06.30-23.38.11:653][402]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind06, this package is now potentially corrupt
+[2021.06.30-23.38.12:654][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.06.30-23.38.12:668][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.06.30-23.38.12:681][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.06.30-23.38.12:692][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.30-23.38.12:703][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.30-23.38.12:715][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.06.30-23.38.12:726][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.06.30-23.38.12:737][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.06.30-23.38.12:748][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.30-23.38.12:760][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.06.30-23.38.12:771][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.30-23.38.12:897][402]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.30-23.38.13:730][402]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.834 s
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: === Handled ensure: ===
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: 
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3142]
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: 
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: 					from the file system manually: 
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: /Game/AdvancedLocomotionV4/Audio/Background/Starter_Birds01
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: /Game/AdvancedLocomotionV4/Audio/Background/Starter_Wind05
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: /Game/AdvancedLocomotionV4/Audio/Background/Starter_Wind06
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: Stack: 
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: [Callstack] 0x00007ffde50041d8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: [Callstack] 0x00007ffde48a8a29 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.30-23.38.13:730][402]LogOutputDevice: Error: [Callstack] 0x00007ffde4003e89 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffde42df97e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffde42d6e57 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea5e85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea60077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4446be UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4c7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4b0367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4a3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffe1581bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffe15809197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffe1581e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffe15804310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffe343ae858 USER32.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffe343ae299 USER32.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffe1581f7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4d2274 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea46d486 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffde436be1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffde489c2e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdd1d76dd8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdc03e7099 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdc03e729e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdc03d7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdd285fc93 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdd2859142 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdd28d7b22 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.30-23.38.13:731][402]LogOutputDevice: Error: [Callstack] 0x00007ffdd285cbb7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea5e85fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea60077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4446be UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4c7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4b0367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffdea4a3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe1581bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe15809197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe1581e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe15804310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe343ae858 USER32.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe343ae299 USER32.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe1581f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ff7813987e7 UE4Editor.exe!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ff7813b113c UE4Editor.exe!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ff7813b121a UE4Editor.exe!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ff7813c527d UE4Editor.exe!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ff7813c7faa UE4Editor.exe!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe33597034 KERNEL32.DLL!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: [Callstack] 0x00007ffe353e2651 ntdll.dll!UnknownFunction []
+[2021.06.30-23.38.13:732][402]LogOutputDevice: Error: 
